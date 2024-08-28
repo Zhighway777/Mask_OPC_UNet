@@ -1,0 +1,10 @@
+test_dataset/mask/M1_test1.png
+test_dataset/mask/M1_test2.png
+test_dataset/mask/M1_test3.png
+test_dataset/mask/M1_test4.png
+test_dataset/mask/M1_test5.png
+test_dataset/mask/M1_test6.png
+test_dataset/mask/M1_test7.png
+test_dataset/mask/M1_test8.png
+test_dataset/mask/M1_test9.png
+test_dataset/mask/M1_test10.png
