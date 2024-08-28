@@ -1,3 +1,6 @@
+# Mask_OPC_UNet
+This is the project of AI4IC, a model to optimize the litho output mask
+
 # Introduction and Background
 ## Lithography Process
 Lithography is a fundamental process in semiconductor manufacturing where geometric patterns from a photomask are transferred onto a photosensitive resist on a wafer. The process follows the
@@ -67,3 +70,7 @@ $ ./auto_eval.sh
 
 # Reference
 Neural-ILT 2.0: Migrating ILT to Domain-Specific and Multitask-Enabled Neural Network
+=======
+# Mask_OPC_UNet
+This is the project of AI4IC, a model to optimize the litho output mask
+>>>>>>> 05825c8452941873fdbd3a1ca43913836b8c3e1f
